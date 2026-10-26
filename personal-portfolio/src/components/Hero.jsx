@@ -10,7 +10,7 @@ function Hero(){
 
     <section className="hero-section"id='Hero'>
         <img className='image-hero' src={profileImage} alt="hero image"    />
-        <h1>hi am {name}</h1>
+        <h1>waa magaceyga {name}</h1>
         <h2>{title}</h2>
         <p>{tagLine}</p>
         
