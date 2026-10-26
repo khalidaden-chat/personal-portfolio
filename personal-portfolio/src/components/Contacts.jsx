@@ -1,5 +1,7 @@
 function Contacts(){
     return(
+        <>
+
         <section className="contact-section" id="Contact">
 
 <h2>GET IN TOUCH</h2>
@@ -12,6 +14,11 @@ function Contacts(){
 
 </form>
         </section>
+        <footer style={{ textAlign: 'center', padding: '20px', backgroundColor: '#333', color: 'white' }}>
+<p>&copy; 2024 Khalid. All rights reserved.</p>
+</footer>
+        </>
+        
     )
 }
 export default Contacts
