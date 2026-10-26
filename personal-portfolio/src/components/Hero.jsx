@@ -13,7 +13,7 @@ function Hero(){
         <h1>hi am {name}</h1>
         <h2>{title}</h2>
         <p>{tagLine}</p>
-        <button className='hero-section-button' >download resume</button>
+        
 
     </section>
 

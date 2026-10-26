@@ -13,8 +13,7 @@ function App() {
   const projectsData=[
     {
       id:1,title:'githubfinder',description:'search github profile using api',
-      link:'https://github.com/khalidaden-chat'
-
+      link:'https://github.com/khalidaden-chat/github-finder'
     }
   ]
 
